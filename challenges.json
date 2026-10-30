@@ -1,6 +1,6 @@
 {
- "maj": "2026-10-30 06:24",
- "maj_iso": "2026-10-30T06:24:09+01:00",
+ "maj": "2026-10-30 06:39",
+ "maj_iso": "2026-10-30T06:39:43+01:00",
  "systeme": {
   "go": true,
   "bloquants": [],
@@ -68,7 +68,7 @@
    "jours_trades": 3,
    "trades": 4,
    "statut": "en cours",
-   "maj": "2026-10-30 06:24"
+   "maj": "2026-10-30 06:39"
   },
   {
    "nom": "Matelas 3 mois",
@@ -77,7 +77,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-10-30 06:24",
+   "maj": "2026-10-30 06:39",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -88,7 +88,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-10-30 06:24",
+   "maj": "2026-10-30 06:39",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -99,7 +99,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-10-30 06:24",
+   "maj": "2026-10-30 06:39",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   }
@@ -112,7 +112,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-10-30 06:24",
+   "maj": "2026-10-30 06:39",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -123,7 +123,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-10-30 06:24",
+   "maj": "2026-10-30 06:39",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -134,7 +134,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-10-30 06:24",
+   "maj": "2026-10-30 06:39",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   },
@@ -145,7 +145,7 @@
    "solde": 0,
    "progression": null,
    "statut": "payouts bruts 0 $ − réserve 35 % + épargne 0 × 776 € ; EURUSD 1.122",
-   "maj": "2026-10-30 06:24"
+   "maj": "2026-10-30 06:39"
   }
  ]
 }
