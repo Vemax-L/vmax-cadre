@@ -1,19 +1,19 @@
 {
- "maj": "2026-10-30 20:02",
- "maj_iso": "2026-10-30T20:02:57+01:00",
+ "maj": "2026-10-30 20:18",
+ "maj_iso": "2026-10-30T20:18:06+01:00",
  "systeme": {
   "go": false,
   "bloquants": [
-   "151 min de trous en séance aujourd'hui"
+   "152 min de trous en séance aujourd'hui"
   ],
   "donnees_min": {
    "ES": 0,
    "NQ": 0,
    "GC": 0
   },
-  "trous_min": 151,
+  "trous_min": 152,
   "services_ko": [],
-  "disque_go": 31,
+  "disque_go": 30,
   "reseau": true,
   "marche_ouvert": true,
   "bookmap": true,
@@ -80,7 +80,7 @@
    "jours_trades": 4,
    "trades": 5,
    "statut": "en cours",
-   "maj": "2026-10-30 20:02"
+   "maj": "2026-10-30 20:18"
   },
   {
    "nom": "Matelas 3 mois",
@@ -89,7 +89,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-10-30 20:02",
+   "maj": "2026-10-30 20:18",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -100,7 +100,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-10-30 20:02",
+   "maj": "2026-10-30 20:18",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -111,7 +111,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-10-30 20:02",
+   "maj": "2026-10-30 20:18",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   }
@@ -124,7 +124,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-10-30 20:02",
+   "maj": "2026-10-30 20:18",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -135,7 +135,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-10-30 20:02",
+   "maj": "2026-10-30 20:18",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -146,7 +146,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-10-30 20:02",
+   "maj": "2026-10-30 20:18",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   },
@@ -157,7 +157,7 @@
    "solde": 0,
    "progression": null,
    "statut": "payouts bruts 0 $ − réserve 35 % + épargne 0 × 776 € ; EURUSD 1.122",
-   "maj": "2026-10-30 20:02"
+   "maj": "2026-10-30 20:18"
   }
  ]
 }
