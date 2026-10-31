@@ -1,15 +1,15 @@
 {
- "maj": "2026-11-01 00:05",
- "maj_iso": "2026-11-01T00:05:46+01:00",
+ "maj": "2026-11-01 00:20",
+ "maj_iso": "2026-11-01T00:20:50+01:00",
  "systeme": {
   "go": false,
   "bloquants": [
-   "Bookmap fermé depuis 90 min"
+   "Bookmap fermé depuis 105 min"
   ],
   "donnees_min": {
-   "ES": 1565,
-   "NQ": 1565,
-   "GC": 1565
+   "ES": 1580,
+   "NQ": 1580,
+   "GC": 1580
   },
   "trous_min": null,
   "services_ko": [],
@@ -70,7 +70,7 @@
    "jours_trades": 4,
    "trades": 5,
    "statut": "en cours",
-   "maj": "2026-11-01 00:05"
+   "maj": "2026-11-01 00:20"
   },
   {
    "nom": "Matelas 3 mois",
@@ -79,7 +79,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-01 00:05",
+   "maj": "2026-11-01 00:20",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -90,7 +90,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-01 00:05",
+   "maj": "2026-11-01 00:20",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -101,7 +101,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-01 00:05",
+   "maj": "2026-11-01 00:20",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   }
@@ -114,7 +114,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-01 00:05",
+   "maj": "2026-11-01 00:20",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -125,7 +125,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-01 00:05",
+   "maj": "2026-11-01 00:20",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -136,7 +136,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-01 00:05",
+   "maj": "2026-11-01 00:20",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   },
@@ -147,7 +147,7 @@
    "solde": 0,
    "progression": null,
    "statut": "payouts bruts 0 $ − réserve 35 % + épargne 0 × 776 € ; EURUSD 1.122",
-   "maj": "2026-11-01 00:05"
+   "maj": "2026-11-01 00:20"
   }
  ]
 }
