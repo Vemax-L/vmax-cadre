@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-02 21:46",
- "maj_iso": "2026-11-02T21:46:16+01:00",
+ "maj": "2026-11-02 22:01",
+ "maj_iso": "2026-11-02T22:01:28+01:00",
  "systeme": {
   "go": false,
   "bloquants": [
@@ -107,10 +107,10 @@
    "n": 2
   },
   "Williams NQ": {
-   "dernier": "2026-10-30",
-   "R": -1.02,
-   "total_R": -5.08,
-   "n": 5
+   "dernier": "2026-11-02",
+   "R": 2.09,
+   "total_R": -2.99,
+   "n": 6
   }
  },
  "challenges": [
@@ -125,7 +125,7 @@
    "jours_trades": 5,
    "trades": 8,
    "statut": "en cours",
-   "maj": "2026-11-02 21:46"
+   "maj": "2026-11-02 22:01"
   },
   {
    "nom": "funded",
@@ -138,7 +138,7 @@
    "jours_trades": 1,
    "trades": 3,
    "statut": "en cours",
-   "maj": "2026-11-02 21:46"
+   "maj": "2026-11-02 22:01"
   },
   {
    "nom": "Matelas 3 mois",
@@ -147,7 +147,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-02 21:46",
+   "maj": "2026-11-02 22:01",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -158,7 +158,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-02 21:46",
+   "maj": "2026-11-02 22:01",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -169,7 +169,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-02 21:46",
+   "maj": "2026-11-02 22:01",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   }
@@ -182,7 +182,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-02 21:46",
+   "maj": "2026-11-02 22:01",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -193,7 +193,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-02 21:46",
+   "maj": "2026-11-02 22:01",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -204,7 +204,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-02 21:46",
+   "maj": "2026-11-02 22:01",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   },
@@ -215,7 +215,7 @@
    "solde": 0,
    "progression": null,
    "statut": "payouts bruts 0 $ − réserve 35 % + épargne 0 × 776 € ; EURUSD 1.122",
-   "maj": "2026-11-02 21:46"
+   "maj": "2026-11-02 22:01"
   }
  ]
 }
