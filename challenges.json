@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-03 22:24",
- "maj_iso": "2026-11-03T22:24:18+01:00",
+ "maj": "2026-11-03 22:39",
+ "maj_iso": "2026-11-03T22:39:28+01:00",
  "systeme": {
   "go": false,
   "bloquants": [
@@ -9,11 +9,11 @@
   "donnees_min": {
    "ES": 0,
    "NQ": 0,
-   "GC": 1
+   "GC": 0
   },
   "trous_min": 184,
   "services_ko": [],
-  "disque_go": 31,
+  "disque_go": 30,
   "reseau": true,
   "marche_ouvert": true,
   "bookmap": true,
@@ -145,7 +145,7 @@
    "jours_trades": 6,
    "trades": 11,
    "statut": "en cours",
-   "maj": "2026-11-03 22:24"
+   "maj": "2026-11-03 22:39"
   },
   {
    "nom": "fictif200k",
@@ -158,7 +158,7 @@
    "jours_trades": 1,
    "trades": 1,
    "statut": "en cours",
-   "maj": "2026-11-03 22:24"
+   "maj": "2026-11-03 22:39"
   },
   {
    "nom": "funded",
@@ -171,7 +171,7 @@
    "jours_trades": 2,
    "trades": 7,
    "statut": "en cours",
-   "maj": "2026-11-03 22:24"
+   "maj": "2026-11-03 22:39"
   },
   {
    "nom": "Matelas 3 mois",
@@ -180,7 +180,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-03 22:24",
+   "maj": "2026-11-03 22:39",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -191,7 +191,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-03 22:24",
+   "maj": "2026-11-03 22:39",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -202,7 +202,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-03 22:24",
+   "maj": "2026-11-03 22:39",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   }
@@ -215,7 +215,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-03 22:24",
+   "maj": "2026-11-03 22:39",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -226,7 +226,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-03 22:24",
+   "maj": "2026-11-03 22:39",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -237,7 +237,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-03 22:24",
+   "maj": "2026-11-03 22:39",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   },
@@ -248,7 +248,7 @@
    "solde": 0,
    "progression": null,
    "statut": "payouts bruts 0 $ − réserve 35 % + épargne 0 × 776 € ; EURUSD 1.122",
-   "maj": "2026-11-03 22:24"
+   "maj": "2026-11-03 22:39"
   }
  ]
 }
