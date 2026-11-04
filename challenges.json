@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-04 06:43",
- "maj_iso": "2026-11-04T06:43:21+01:00",
+ "maj": "2026-11-04 06:58",
+ "maj_iso": "2026-11-04T06:58:26+01:00",
  "systeme": {
   "go": true,
   "bloquants": [],
@@ -11,7 +11,7 @@
   },
   "trous_min": 0,
   "services_ko": [],
-  "disque_go": 31,
+  "disque_go": 30,
   "reseau": true,
   "marche_ouvert": true,
   "bookmap": true,
@@ -38,6 +38,15 @@
     "risque": 67
    },
    {
+    "heure": "06:46",
+    "brique": "Élu GC matin",
+    "sens": "achat",
+    "statut": "TP",
+    "R": 1.63,
+    "usd": 195,
+    "risque": 119
+   },
+   {
     "heure": "01:31",
     "brique": "Élu NQ retest",
     "sens": "vente",
@@ -56,6 +65,15 @@
     "risque": 225
    },
    {
+    "heure": "06:46",
+    "brique": "Élu GC matin",
+    "sens": "achat",
+    "statut": "suiveur",
+    "R": 3.08,
+    "usd": 1156,
+    "risque": 375
+   },
+   {
     "heure": "01:31",
     "brique": "Élu NQ retest",
     "sens": "vente",
@@ -72,10 +90,19 @@
     "R": 1.63,
     "usd": 784,
     "risque": 480
+   },
+   {
+    "heure": "06:46",
+    "brique": "Élu GC matin",
+    "sens": "achat",
+    "statut": "TP",
+    "R": 1.63,
+    "usd": 1307,
+    "risque": 800
    }
   ],
-  "nb": 6,
-  "pnl": 4285,
+  "nb": 9,
+  "pnl": 6943,
   "raison_sans_trade": "",
   "positions_ouvertes": [],
   "refus": []
@@ -117,39 +144,39 @@
    "type": "challenge",
    "depuis": "2026-10-23",
    "objectif": 3000.0,
-   "solde": -385,
+   "solde": -190,
    "plancher": -1975,
-   "marge": 1590,
+   "marge": 1785,
    "jours_trades": 7,
-   "trades": 13,
+   "trades": 14,
    "statut": "en cours",
-   "maj": "2026-11-04 06:43"
+   "maj": "2026-11-04 06:58"
   },
   {
    "nom": "fictif200k",
    "type": "challenge",
    "depuis": "2026-11-03 07:30",
    "objectif": 20000.0,
-   "solde": 1930,
+   "solde": 3236,
    "plancher": -20000,
-   "marge": 21930,
+   "marge": 23236,
    "jours_trades": 2,
-   "trades": 3,
+   "trades": 4,
    "statut": "en cours",
-   "maj": "2026-11-04 06:43"
+   "maj": "2026-11-04 06:58"
   },
   {
    "nom": "funded",
    "type": "financé",
    "depuis": "2026-11-02",
    "objectif": 999999.0,
-   "solde": 1150,
-   "plancher": -2350,
+   "solde": 2307,
+   "plancher": -1193,
    "marge": 3500,
    "jours_trades": 3,
-   "trades": 9,
+   "trades": 10,
    "statut": "en cours",
-   "maj": "2026-11-04 06:43"
+   "maj": "2026-11-04 06:58"
   },
   {
    "nom": "Matelas 3 mois",
@@ -158,7 +185,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-04 06:43",
+   "maj": "2026-11-04 06:58",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -169,7 +196,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-04 06:43",
+   "maj": "2026-11-04 06:58",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -180,7 +207,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-04 06:43",
+   "maj": "2026-11-04 06:58",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   }
@@ -193,7 +220,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-04 06:43",
+   "maj": "2026-11-04 06:58",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -204,7 +231,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-04 06:43",
+   "maj": "2026-11-04 06:58",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -215,7 +242,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-04 06:43",
+   "maj": "2026-11-04 06:58",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   },
@@ -226,7 +253,7 @@
    "solde": 0,
    "progression": null,
    "statut": "payouts bruts 0 $ − réserve 35 % + épargne 0 × 776 € ; EURUSD 1.122",
-   "maj": "2026-11-04 06:43"
+   "maj": "2026-11-04 06:58"
   }
  ]
 }
