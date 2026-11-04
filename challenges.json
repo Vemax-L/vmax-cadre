@@ -1,19 +1,20 @@
 {
- "maj": "2026-11-04 17:49",
- "maj_iso": "2026-11-04T17:49:56+01:00",
+ "maj": "2026-11-04 18:05",
+ "maj_iso": "2026-11-04T18:05:08+01:00",
  "systeme": {
   "go": false,
   "bloquants": [
-   "32 min de trous en séance aujourd'hui"
+   "33 min de trous en séance aujourd'hui",
+   "disque : 10 Go libres"
   ],
   "donnees_min": {
    "ES": 0,
    "NQ": 0,
    "GC": 0
   },
-  "trous_min": 32,
+  "trous_min": 33,
   "services_ko": [],
-  "disque_go": 16,
+  "disque_go": 10,
   "reseau": true,
   "marche_ouvert": true,
   "bookmap": true,
@@ -103,6 +104,15 @@
     "risque": 900
    },
    {
+    "heure": "18:00",
+    "brique": "Or 30 min confirmé",
+    "sens": "achat",
+    "statut": "OUVERT",
+    "R": null,
+    "usd": null,
+    "risque": 750
+   },
+   {
     "heure": "01:31",
     "brique": "Élu NQ retest",
     "sens": "vente",
@@ -139,10 +149,20 @@
     "risque": 1920
    }
   ],
-  "nb": 13,
+  "nb": 14,
   "pnl": 5133,
   "raison_sans_trade": "",
-  "positions_ouvertes": [],
+  "positions_ouvertes": [
+   {
+    "marche": "GC",
+    "sens": "achat",
+    "entree": 4076.6,
+    "stop": 4061.02,
+    "objectif": NaN,
+    "risque": 750.0,
+    "heure": "00:00"
+   }
+  ],
   "refus": []
  },
  "marche": {
@@ -188,7 +208,7 @@
    "jours_trades": 7,
    "trades": 15,
    "statut": "en cours",
-   "maj": "2026-11-04 17:49"
+   "maj": "2026-11-04 18:05"
   },
   {
    "nom": "fictif200k",
@@ -201,7 +221,7 @@
    "jours_trades": 2,
    "trades": 5,
    "statut": "en cours",
-   "maj": "2026-11-04 17:49"
+   "maj": "2026-11-04 18:05"
   },
   {
    "nom": "funded",
@@ -214,7 +234,7 @@
    "jours_trades": 3,
    "trades": 12,
    "statut": "en cours",
-   "maj": "2026-11-04 17:49"
+   "maj": "2026-11-04 18:05"
   },
   {
    "nom": "Matelas 3 mois",
@@ -223,7 +243,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-04 17:49",
+   "maj": "2026-11-04 18:05",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -234,7 +254,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-04 17:49",
+   "maj": "2026-11-04 18:05",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -245,7 +265,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-04 17:49",
+   "maj": "2026-11-04 18:05",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   }
@@ -258,7 +278,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-04 17:49",
+   "maj": "2026-11-04 18:05",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -269,7 +289,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-04 17:49",
+   "maj": "2026-11-04 18:05",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -280,7 +300,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-04 17:49",
+   "maj": "2026-11-04 18:05",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   },
@@ -291,7 +311,7 @@
    "solde": 0,
    "progression": null,
    "statut": "payouts bruts 0 $ − réserve 35 % + épargne 0 × 776 € ; EURUSD 1.122",
-   "maj": "2026-11-04 17:49"
+   "maj": "2026-11-04 18:05"
   }
  ]
 }
