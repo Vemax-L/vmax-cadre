@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-09 01:36",
- "maj_iso": "2026-11-09T01:36:17+01:00",
+ "maj": "2026-11-09 01:51",
+ "maj_iso": "2026-11-09T01:51:22+01:00",
  "systeme": {
   "go": true,
   "bloquants": [],
@@ -18,11 +18,94 @@
   "icloud_pin": true
  },
  "aujourdhui": {
-  "trades": [],
-  "nb": 0,
-  "pnl": 0,
-  "raison_sans_trade": "pas de signal pour l'instant",
-  "positions_ouvertes": [],
+  "trades": [
+   {
+    "heure": "01:40",
+    "brique": "Élu GC matin",
+    "sens": "achat",
+    "statut": "SL",
+    "R": -1.03,
+    "usd": -82,
+    "risque": 80
+   },
+   {
+    "heure": "01:46",
+    "brique": "Élu GC matin",
+    "sens": "achat",
+    "statut": "SL",
+    "R": -1.03,
+    "usd": -79,
+    "risque": 76
+   },
+   {
+    "heure": "01:40",
+    "brique": "Élu GC matin",
+    "sens": "achat",
+    "statut": "OUVERT",
+    "R": null,
+    "usd": null,
+    "risque": 375
+   },
+   {
+    "heure": "01:46",
+    "brique": "Élu GC matin",
+    "sens": "achat",
+    "statut": "SL",
+    "R": -1.03,
+    "usd": -388,
+    "risque": 375
+   },
+   {
+    "heure": "01:40",
+    "brique": "Élu GC matin",
+    "sens": "achat",
+    "statut": "SL",
+    "R": -1.03,
+    "usd": -496,
+    "risque": 480
+   },
+   {
+    "heure": "01:46",
+    "brique": "Élu GC matin",
+    "sens": "achat",
+    "statut": "SL",
+    "R": -1.03,
+    "usd": -496,
+    "risque": 480
+   },
+   {
+    "heure": "01:40",
+    "brique": "Élu GC matin",
+    "sens": "achat",
+    "statut": "SL",
+    "R": -1.03,
+    "usd": -496,
+    "risque": 480
+   },
+   {
+    "heure": "01:46",
+    "brique": "Élu GC matin",
+    "sens": "achat",
+    "statut": "SL",
+    "R": -1.03,
+    "usd": -496,
+    "risque": 480
+   }
+  ],
+  "nb": 8,
+  "pnl": -2533,
+  "raison_sans_trade": "",
+  "positions_ouvertes": [
+   {
+    "marche": "GC",
+    "sens": "achat",
+    "entree": 4105.4,
+    "stop": 4099.4,
+    "objectif": 4115.4,
+    "risque": 375.0,
+    "heure": "40:58"
+   }
+  ],
   "refus": []
  },
  "marche": {
@@ -62,52 +145,52 @@
    "type": "challenge",
    "depuis": "2026-10-23",
    "objectif": 3000.0,
-   "solde": -202,
+   "solde": -363,
    "plancher": -1975,
-   "marge": 1773,
-   "jours_trades": 8,
-   "trades": 16,
+   "marge": 1612,
+   "jours_trades": 9,
+   "trades": 18,
    "statut": "en cours",
-   "maj": "2026-11-09 01:36"
+   "maj": "2026-11-09 01:51"
   },
   {
    "nom": "fictif200k",
    "type": "challenge",
    "depuis": "2026-11-03 07:30",
    "objectif": 20000.0,
-   "solde": 3582,
+   "solde": 2590,
    "plancher": -20000,
-   "marge": 23582,
-   "jours_trades": 3,
-   "trades": 6,
+   "marge": 22590,
+   "jours_trades": 4,
+   "trades": 8,
    "statut": "en cours",
-   "maj": "2026-11-09 01:36"
+   "maj": "2026-11-09 01:51"
   },
   {
    "nom": "ftmo200k",
    "type": "challenge",
    "depuis": "2026-11-04 22:02",
    "objectif": 20000.0,
-   "solde": 996,
+   "solde": 4,
    "plancher": -20000,
-   "marge": 20996,
-   "jours_trades": 1,
-   "trades": 1,
+   "marge": 20004,
+   "jours_trades": 2,
+   "trades": 3,
    "statut": "en cours",
-   "maj": "2026-11-09 01:36"
+   "maj": "2026-11-09 01:51"
   },
   {
    "nom": "funded",
    "type": "financé",
    "depuis": "2026-11-02",
    "objectif": 999999.0,
-   "solde": 2584,
+   "solde": 2196,
    "plancher": 100,
-   "marge": 2484,
-   "jours_trades": 4,
-   "trades": 15,
+   "marge": 2096,
+   "jours_trades": 5,
+   "trades": 16,
    "statut": "en cours",
-   "maj": "2026-11-09 01:36"
+   "maj": "2026-11-09 01:51"
   },
   {
    "nom": "Matelas 3 mois",
@@ -116,7 +199,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-09 01:36",
+   "maj": "2026-11-09 01:51",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -127,7 +210,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-09 01:36",
+   "maj": "2026-11-09 01:51",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -138,7 +221,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-09 01:36",
+   "maj": "2026-11-09 01:51",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   }
@@ -151,7 +234,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-09 01:36",
+   "maj": "2026-11-09 01:51",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -162,7 +245,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-09 01:36",
+   "maj": "2026-11-09 01:51",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -173,7 +256,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-09 01:36",
+   "maj": "2026-11-09 01:51",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   },
@@ -184,7 +267,7 @@
    "solde": 0,
    "progression": null,
    "statut": "payouts bruts 0 $ − réserve 35 % + épargne 0 × 776 € ; EURUSD 1.122",
-   "maj": "2026-11-09 01:36"
+   "maj": "2026-11-09 01:51"
   }
  ]
 }
