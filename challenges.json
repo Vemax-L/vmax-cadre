@@ -1,17 +1,17 @@
 {
- "maj": "2026-11-20 23:58",
- "maj_iso": "2026-11-20T23:58:51+01:00",
+ "maj": "2026-11-21 00:14",
+ "maj_iso": "2026-11-21T00:14:06+01:00",
  "systeme": {
   "go": false,
   "bloquants": [
-   "Bookmap fermé depuis 56 min"
+   "Bookmap fermé depuis 71 min"
   ],
   "donnees_min": {
-   "ES": 58,
-   "NQ": 58,
-   "GC": 58
+   "ES": 74,
+   "NQ": 74,
+   "GC": 74
   },
-  "trous_min": 0,
+  "trous_min": null,
   "services_ko": [],
   "disque_go": 39,
   "reseau": true,
@@ -20,141 +20,12 @@
   "icloud_pin": true
  },
  "aujourdhui": {
-  "trades": [
-   {
-    "heure": "02:30",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -28,
-    "risque": 28
-   },
-   {
-    "heure": "06:20",
-    "brique": "Élu NQ retest",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.0,
-    "usd": -108,
-    "risque": 108
-   },
-   {
-    "heure": "10:50",
-    "brique": "Élu NQ retest",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.0,
-    "usd": -98,
-    "risque": 98
-   },
-   {
-    "heure": "00:00",
-    "brique": "Or 4 h MM110",
-    "sens": "vente",
-    "statut": "TP",
-    "R": 1.99,
-    "usd": 659,
-    "risque": 330
-   },
-   {
-    "heure": "01:00",
-    "brique": "Or 30 min confirmé",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.01,
-    "usd": -760,
-    "risque": 750
-   },
-   {
-    "heure": "02:30",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -330,
-    "risque": 319
-   },
-   {
-    "heure": "06:20",
-    "brique": "Élu NQ retest",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.0,
-    "usd": -338,
-    "risque": 338
-   },
-   {
-    "heure": "10:50",
-    "brique": "Élu NQ retest",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.0,
-    "usd": -293,
-    "risque": 293
-   },
-   {
-    "heure": "02:30",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -496,
-    "risque": 480
-   },
-   {
-    "heure": "06:20",
-    "brique": "Élu NQ retest",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.0,
-    "usd": -1920,
-    "risque": 1920
-   },
-   {
-    "heure": "10:50",
-    "brique": "Élu NQ retest",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.0,
-    "usd": -1920,
-    "risque": 1920
-   },
-   {
-    "heure": "02:30",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "REEL SL",
-    "R": -1.0,
-    "usd": -482,
-    "risque": 480
-   },
-   {
-    "heure": "06:20",
-    "brique": "Élu NQ retest",
-    "sens": "vente",
-    "statut": "REEL SL",
-    "R": -1.04,
-    "usd": -1989,
-    "risque": 1920
-   },
-   {
-    "heure": "10:50",
-    "brique": "Élu NQ retest",
-    "sens": "vente",
-    "statut": "REEL SL",
-    "R": -1.02,
-    "usd": -1965,
-    "risque": 1920
-   }
-  ],
-  "nb": 14,
-  "pnl": -10068,
-  "raison_sans_trade": "",
+  "trades": [],
+  "nb": 0,
+  "pnl": 0,
+  "raison_sans_trade": "week-end : marchés fermés",
   "positions_ouvertes": [],
-  "refus": [
-   "perte du jour 4,000 $ atteinte"
-  ]
+  "refus": []
  },
  "marche": {
   "vix": "VIX 28.44 (clôture du 11/19/2026) → TOP — démarre : ≈ 13 j de challenge attendus | 5 dernières clôtures : 19.3 22.9 25.5 24.6 28.4 | source : CBOE",
@@ -199,7 +70,7 @@
    "jours_trades": 15,
    "trades": 34,
    "statut": "en cours",
-   "maj": "2026-11-20 23:58"
+   "maj": "2026-11-21 00:14"
   },
   {
    "nom": "fictif200k",
@@ -212,7 +83,7 @@
    "jours_trades": 10,
    "trades": 25,
    "statut": "en cours",
-   "maj": "2026-11-20 23:58"
+   "maj": "2026-11-21 00:14"
   },
   {
    "nom": "ftmo200k",
@@ -225,7 +96,7 @@
    "jours_trades": 8,
    "trades": 21,
    "statut": "en cours",
-   "maj": "2026-11-20 23:58"
+   "maj": "2026-11-21 00:14"
   },
   {
    "nom": "funded",
@@ -238,7 +109,7 @@
    "jours_trades": 11,
    "trades": 39,
    "statut": "en cours",
-   "maj": "2026-11-20 23:58"
+   "maj": "2026-11-21 00:14"
   },
   {
    "nom": "Matelas 3 mois",
@@ -247,7 +118,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-20 23:58",
+   "maj": "2026-11-21 00:14",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -258,7 +129,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-20 23:58",
+   "maj": "2026-11-21 00:14",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -269,7 +140,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-20 23:58",
+   "maj": "2026-11-21 00:14",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   }
@@ -282,7 +153,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-20 23:58",
+   "maj": "2026-11-21 00:14",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -293,7 +164,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-20 23:58",
+   "maj": "2026-11-21 00:14",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -304,7 +175,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-20 23:58",
+   "maj": "2026-11-21 00:14",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   },
@@ -315,7 +186,7 @@
    "solde": 0,
    "progression": null,
    "statut": "payouts bruts 0 $ − réserve 35 % + épargne 0 × 776 € ; EURUSD 1.122",
-   "maj": "2026-11-20 23:58"
+   "maj": "2026-11-21 00:14"
   }
  ]
 }
