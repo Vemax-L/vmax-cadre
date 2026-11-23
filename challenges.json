@@ -1,15 +1,13 @@
 {
- "maj": "2026-11-23 23:45",
- "maj_iso": "2026-11-23T23:45:15+01:00",
+ "maj": "2026-11-24 00:00",
+ "maj_iso": "2026-11-24T00:00:42+01:00",
  "systeme": {
-  "go": false,
-  "bloquants": [
-   "données Bookmap vieilles de 45 min"
-  ],
+  "go": true,
+  "bloquants": [],
   "donnees_min": {
-   "ES": 45,
-   "NQ": 45,
-   "GC": 45
+   "ES": -1,
+   "NQ": -1,
+   "GC": -1
   },
   "trous_min": 0,
   "services_ko": [],
@@ -20,56 +18,10 @@
   "icloud_pin": true
  },
  "aujourdhui": {
-  "trades": [
-   {
-    "heure": "11:59",
-    "brique": "B&R GC",
-    "sens": "achat",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -46,
-    "risque": 45
-   },
-   {
-    "heure": "11:59",
-    "brique": "B&R GC",
-    "sens": "achat",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -130,
-    "risque": 127
-   },
-   {
-    "heure": "15:00",
-    "brique": "Or 1 h 12–18 h",
-    "sens": "achat",
-    "statut": "SL",
-    "R": -1.01,
-    "usd": -119,
-    "risque": 118
-   },
-   {
-    "heure": "11:59",
-    "brique": "B&R GC",
-    "sens": "achat",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -989,
-    "risque": 960
-   },
-   {
-    "heure": "11:59",
-    "brique": "B&R GC",
-    "sens": "achat",
-    "statut": "NON OUVERT",
-    "R": 0.0,
-    "usd": 0,
-    "risque": 120
-   }
-  ],
-  "nb": 5,
-  "pnl": -1284,
-  "raison_sans_trade": "",
+  "trades": [],
+  "nb": 0,
+  "pnl": 0,
+  "raison_sans_trade": "pas de signal pour l'instant",
   "positions_ouvertes": [],
   "refus": []
  },
@@ -116,7 +68,7 @@
    "jours_trades": 16,
    "trades": 35,
    "statut": "en cours",
-   "maj": "2026-11-23 23:45"
+   "maj": "2026-11-24 00:00"
   },
   {
    "nom": "fictif200k",
@@ -129,7 +81,7 @@
    "jours_trades": 11,
    "trades": 26,
    "statut": "en cours",
-   "maj": "2026-11-23 23:45"
+   "maj": "2026-11-24 00:00"
   },
   {
    "nom": "ftmo200k",
@@ -142,7 +94,7 @@
    "jours_trades": 9,
    "trades": 22,
    "statut": "en cours",
-   "maj": "2026-11-23 23:45"
+   "maj": "2026-11-24 00:00"
   },
   {
    "nom": "funded",
@@ -155,7 +107,7 @@
    "jours_trades": 12,
    "trades": 41,
    "statut": "en cours",
-   "maj": "2026-11-23 23:45"
+   "maj": "2026-11-24 00:00"
   },
   {
    "nom": "Matelas 3 mois",
@@ -164,7 +116,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-23 23:45",
+   "maj": "2026-11-24 00:00",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -175,7 +127,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-23 23:45",
+   "maj": "2026-11-24 00:00",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -186,7 +138,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-23 23:45",
+   "maj": "2026-11-24 00:00",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   }
@@ -199,7 +151,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-23 23:45",
+   "maj": "2026-11-24 00:00",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -210,7 +162,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-23 23:45",
+   "maj": "2026-11-24 00:00",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -221,7 +173,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-23 23:45",
+   "maj": "2026-11-24 00:00",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   },
@@ -232,7 +184,7 @@
    "solde": 0,
    "progression": null,
    "statut": "payouts bruts 0 $ − réserve 35 % + épargne 0 × 776 € ; EURUSD 1.097",
-   "maj": "2026-11-23 23:45"
+   "maj": "2026-11-24 00:00"
   }
  ]
 }
