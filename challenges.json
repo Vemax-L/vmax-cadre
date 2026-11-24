@@ -1,184 +1,32 @@
 {
- "maj": "2026-11-24 23:46",
- "maj_iso": "2026-11-24T23:46:50+01:00",
+ "maj": "2026-11-25 00:02",
+ "maj_iso": "2026-11-25T00:02:54+01:00",
  "systeme": {
   "go": false,
   "bloquants": [
-   "données Bookmap vieilles de 46 min",
-   "Bookmap fermé depuis 21 min"
+   "données Bookmap vieilles de 62 min",
+   "Bookmap fermé depuis 37 min"
   ],
   "donnees_min": {
-   "ES": 46,
-   "NQ": 46,
-   "GC": 46
+   "ES": 62,
+   "NQ": 62,
+   "GC": 62
   },
-  "trous_min": 0,
+  "trous_min": null,
   "services_ko": [],
-  "disque_go": 31,
+  "disque_go": 30,
   "reseau": true,
   "marche_ouvert": true,
   "bookmap": false,
   "icloud_pin": true
  },
  "aujourdhui": {
-  "trades": [
-   {
-    "heure": "04:50",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -22,
-    "risque": 21
-   },
-   {
-    "heure": "05:15",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -21,
-    "risque": 21
-   },
-   {
-    "heure": "07:30",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -21,
-    "risque": 20
-   },
-   {
-    "heure": "08:29",
-    "brique": "B&R GC",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -41,
-    "risque": 40
-   },
-   {
-    "heure": "04:50",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -57,
-    "risque": 55
-   },
-   {
-    "heure": "05:15",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -55,
-    "risque": 53
-   },
-   {
-    "heure": "07:30",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -53,
-    "risque": 51
-   },
-   {
-    "heure": "08:29",
-    "brique": "B&R GC",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -102,
-    "risque": 99
-   },
-   {
-    "heure": "04:50",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -496,
-    "risque": 480
-   },
-   {
-    "heure": "05:15",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -496,
-    "risque": 480
-   },
-   {
-    "heure": "07:30",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -496,
-    "risque": 480
-   },
-   {
-    "heure": "08:29",
-    "brique": "B&R GC",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.03,
-    "usd": -989,
-    "risque": 960
-   },
-   {
-    "heure": "09:40",
-    "brique": "Élu NQ retest",
-    "sens": "vente",
-    "statut": "SL",
-    "R": -1.0,
-    "usd": -1920,
-    "risque": 1920
-   },
-   {
-    "heure": "04:50",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "REEL TP",
-    "R": 1.67,
-    "usd": 201,
-    "risque": 120
-   },
-   {
-    "heure": "05:15",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "NON OUVERT",
-    "R": 0.0,
-    "usd": 0,
-    "risque": 200
-   },
-   {
-    "heure": "07:30",
-    "brique": "Élu GC matin",
-    "sens": "vente",
-    "statut": "NON OUVERT",
-    "R": 0.0,
-    "usd": 0,
-    "risque": 120
-   }
-  ],
-  "nb": 16,
-  "pnl": -4568,
-  "raison_sans_trade": "",
+  "trades": [],
+  "nb": 0,
+  "pnl": 0,
+  "raison_sans_trade": "pas de données fraîches : rien ne peut se déclencher",
   "positions_ouvertes": [],
-  "refus": [
-   "2 pertes (US)",
-   "2 pertes (avant 15:30)",
-   "opti (B&R GC hors S1–R1 Predictive Ranges)",
-   "opti (ORB contre le biais du jour)",
-   "opti (Élu NQ hors range Range Detector)",
-   "perte du jour 4,000 $ atteinte"
-  ]
+  "refus": []
  },
  "marche": {
   "vix": "VIX 26.62 (clôture du 11/23/2026) → TOP — démarre : ≈ 13 j de challenge attendus | 5 dernières clôtures : 25.5 24.6 28.4 35.9 26.6 | source : CBOE",
@@ -223,7 +71,7 @@
    "jours_trades": 17,
    "trades": 39,
    "statut": "en cours",
-   "maj": "2026-11-24 23:46"
+   "maj": "2026-11-25 00:02"
   },
   {
    "nom": "fictif200k",
@@ -236,7 +84,7 @@
    "jours_trades": 12,
    "trades": 31,
    "statut": "en cours",
-   "maj": "2026-11-24 23:46"
+   "maj": "2026-11-25 00:02"
   },
   {
    "nom": "ftmo200k",
@@ -249,7 +97,7 @@
    "jours_trades": 10,
    "trades": 25,
    "statut": "en cours",
-   "maj": "2026-11-24 23:46"
+   "maj": "2026-11-25 00:02"
   },
   {
    "nom": "funded",
@@ -262,7 +110,7 @@
    "jours_trades": 13,
    "trades": 45,
    "statut": "en cours",
-   "maj": "2026-11-24 23:46"
+   "maj": "2026-11-25 00:02"
   },
   {
    "nom": "Matelas 3 mois",
@@ -271,7 +119,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-24 23:46",
+   "maj": "2026-11-25 00:02",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -282,7 +130,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-24 23:46",
+   "maj": "2026-11-25 00:02",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -293,7 +141,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-24 23:46",
+   "maj": "2026-11-25 00:02",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   }
@@ -306,7 +154,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-24 23:46",
+   "maj": "2026-11-25 00:02",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -317,7 +165,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-24 23:46",
+   "maj": "2026-11-25 00:02",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -328,7 +176,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-24 23:46",
+   "maj": "2026-11-25 00:02",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   },
@@ -339,7 +187,7 @@
    "solde": 0,
    "progression": null,
    "statut": "payouts bruts 0 $ − réserve 35 % + épargne 0 × 776 € ; EURUSD 1.097",
-   "maj": "2026-11-24 23:46"
+   "maj": "2026-11-25 00:02"
   }
  ]
 }
