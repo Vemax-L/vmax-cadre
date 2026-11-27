@@ -1,34 +1,33 @@
 {
- "maj": "2026-11-27 22:55",
- "maj_iso": "2026-11-27T22:55:37+01:00",
+ "maj": "2026-11-27 23:11",
+ "maj_iso": "2026-11-27T23:11:52+01:00",
  "systeme": {
   "go": false,
   "bloquants": [
    "services arrêtés : atlas-mt5",
-   "données Bookmap vieilles de 220 min",
    "165 min de trous en séance aujourd'hui",
-   "Bookmap fermé depuis 121 min"
+   "iCloud : « Conserver le téléchargement » perdu sur « 12 - trading »"
   ],
   "donnees_min": {
-   "ES": 220,
-   "NQ": 220,
-   "GC": 131
+   "ES": 236,
+   "NQ": 236,
+   "GC": 147
   },
   "trous_min": 165,
   "services_ko": [
    "atlas-mt5"
   ],
-  "disque_go": 35,
+  "disque_go": 25,
   "reseau": true,
-  "marche_ouvert": true,
-  "bookmap": false,
-  "icloud_pin": true
+  "marche_ouvert": false,
+  "bookmap": true,
+  "icloud_pin": false
  },
  "aujourdhui": {
   "trades": [],
   "nb": 0,
   "pnl": 0,
-  "raison_sans_trade": "signaux refusés : annonce (FERIE lendemain de Thanksgiving (demi-séance))",
+  "raison_sans_trade": "week-end : marchés fermés",
   "positions_ouvertes": [
    {
     "marche": "ES",
@@ -132,7 +131,7 @@
    "jours_trades": 17,
    "trades": 39,
    "statut": "en cours",
-   "maj": "2026-11-27 22:55"
+   "maj": "2026-11-27 23:11"
   },
   {
    "nom": "fictif200k",
@@ -145,7 +144,7 @@
    "jours_trades": 12,
    "trades": 31,
    "statut": "en cours",
-   "maj": "2026-11-27 22:55"
+   "maj": "2026-11-27 23:11"
   },
   {
    "nom": "ftmo200k",
@@ -158,7 +157,7 @@
    "jours_trades": 10,
    "trades": 24,
    "statut": "en cours",
-   "maj": "2026-11-27 22:55"
+   "maj": "2026-11-27 23:11"
   },
   {
    "nom": "ftmo200k2",
@@ -171,7 +170,7 @@
    "jours_trades": 0,
    "trades": 0,
    "statut": "en cours",
-   "maj": "2026-11-27 22:55"
+   "maj": "2026-11-27 23:11"
   },
   {
    "nom": "funded",
@@ -184,7 +183,7 @@
    "jours_trades": 13,
    "trades": 45,
    "statut": "en cours",
-   "maj": "2026-11-27 22:55"
+   "maj": "2026-11-27 23:11"
   },
   {
    "nom": "Matelas 3 mois",
@@ -193,7 +192,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-27 22:55",
+   "maj": "2026-11-27 23:11",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -204,7 +203,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-27 22:55",
+   "maj": "2026-11-27 23:11",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -215,7 +214,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-27 22:55",
+   "maj": "2026-11-27 23:11",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   }
@@ -228,7 +227,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-27 22:55",
+   "maj": "2026-11-27 23:11",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -239,7 +238,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-27 22:55",
+   "maj": "2026-11-27 23:11",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -250,7 +249,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-27 22:55",
+   "maj": "2026-11-27 23:11",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   },
@@ -261,7 +260,7 @@
    "solde": 0,
    "progression": null,
    "statut": "payouts bruts 0 $ − réserve 35 % + épargne 0 × 776 € ; EURUSD 1.097",
-   "maj": "2026-11-27 22:55"
+   "maj": "2026-11-27 23:11"
   }
  ]
 }
