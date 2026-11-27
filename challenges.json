@@ -1,20 +1,20 @@
 {
- "maj": "2026-11-27 21:54",
- "maj_iso": "2026-11-27T21:54:49+01:00",
+ "maj": "2026-11-27 22:09",
+ "maj_iso": "2026-11-27T22:09:59+01:00",
  "systeme": {
   "go": false,
   "bloquants": [
    "services arrêtés : atlas-mt5",
-   "données Bookmap vieilles de 159 min",
-   "160 min de trous en séance aujourd'hui",
-   "Bookmap fermé depuis 60 min"
+   "données Bookmap vieilles de 174 min",
+   "165 min de trous en séance aujourd'hui",
+   "Bookmap fermé depuis 75 min"
   ],
   "donnees_min": {
-   "ES": 159,
-   "NQ": 159,
-   "GC": 70
+   "ES": 174,
+   "NQ": 174,
+   "GC": 85
   },
-  "trous_min": 160,
+  "trous_min": 165,
   "services_ko": [
    "atlas-mt5"
   ],
@@ -29,7 +29,44 @@
   "nb": 0,
   "pnl": 0,
   "raison_sans_trade": "signaux refusés : annonce (FERIE lendemain de Thanksgiving (demi-séance))",
-  "positions_ouvertes": [],
+  "positions_ouvertes": [
+   {
+    "marche": "ES",
+    "sens": "achat",
+    "entree": 7258.25,
+    "stop": 7221.62,
+    "objectif": 7368.12,
+    "risque": 800.0,
+    "heure": "35:00"
+   },
+   {
+    "marche": "ES",
+    "sens": "achat",
+    "entree": 7258.25,
+    "stop": 7221.62,
+    "objectif": 7368.12,
+    "risque": 2800.0,
+    "heure": "35:00"
+   },
+   {
+    "marche": "ES",
+    "sens": "achat",
+    "entree": 7258.25,
+    "stop": 7221.62,
+    "objectif": 7368.12,
+    "risque": 1600.0,
+    "heure": "35:00"
+   },
+   {
+    "marche": "ES",
+    "sens": "achat",
+    "entree": 7258.25,
+    "stop": 7221.62,
+    "objectif": 7368.12,
+    "risque": 1400.0,
+    "heure": "35:00"
+   }
+  ],
   "refus": [
    "annonce (FERIE lendemain de Thanksgiving (demi-séance))"
   ]
@@ -77,7 +114,7 @@
    "jours_trades": 17,
    "trades": 39,
    "statut": "en cours",
-   "maj": "2026-11-27 21:54"
+   "maj": "2026-11-27 22:09"
   },
   {
    "nom": "fictif200k",
@@ -90,7 +127,7 @@
    "jours_trades": 12,
    "trades": 31,
    "statut": "en cours",
-   "maj": "2026-11-27 21:54"
+   "maj": "2026-11-27 22:09"
   },
   {
    "nom": "ftmo200k",
@@ -103,7 +140,7 @@
    "jours_trades": 10,
    "trades": 24,
    "statut": "en cours",
-   "maj": "2026-11-27 21:54"
+   "maj": "2026-11-27 22:09"
   },
   {
    "nom": "ftmo200k2",
@@ -116,7 +153,7 @@
    "jours_trades": 0,
    "trades": 0,
    "statut": "en cours",
-   "maj": "2026-11-27 21:54"
+   "maj": "2026-11-27 22:09"
   },
   {
    "nom": "funded",
@@ -129,7 +166,7 @@
    "jours_trades": 13,
    "trades": 45,
    "statut": "en cours",
-   "maj": "2026-11-27 21:54"
+   "maj": "2026-11-27 22:09"
   },
   {
    "nom": "Matelas 3 mois",
@@ -138,7 +175,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-27 21:54",
+   "maj": "2026-11-27 22:09",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -149,7 +186,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-27 21:54",
+   "maj": "2026-11-27 22:09",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -160,7 +197,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-27 21:54",
+   "maj": "2026-11-27 22:09",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   }
@@ -173,7 +210,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 8,700 €",
-   "maj": "2026-11-27 21:54",
+   "maj": "2026-11-27 22:09",
    "depuis": "",
    "note": "sécurité avant tout"
   },
@@ -184,7 +221,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 6,000 €",
-   "maj": "2026-11-27 21:54",
+   "maj": "2026-11-27 22:09",
    "depuis": "",
    "note": "montant à préciser par V-max"
   },
@@ -195,7 +232,7 @@
    "solde": 0,
    "progression": 0.0,
    "statut": "il manque 34,000 €",
-   "maj": "2026-11-27 21:54",
+   "maj": "2026-11-27 22:09",
    "depuis": "",
    "note": "32 500 + frais ; cash, sans crédit"
   },
@@ -206,7 +243,7 @@
    "solde": 0,
    "progression": null,
    "statut": "payouts bruts 0 $ − réserve 35 % + épargne 0 × 776 € ; EURUSD 1.097",
-   "maj": "2026-11-27 21:54"
+   "maj": "2026-11-27 22:09"
   }
  ]
 }
